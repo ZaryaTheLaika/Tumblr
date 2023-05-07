@@ -1,5 +1,5 @@
 # Tumblr
-Backup copy of pages and posts from the [Tumblr](https://rikaklassen.tumblr.com/) account.
+Backup copy of pages and posts from the [Tumblr](https://zaryathelaika.tumblr.com/) account.
 
 Due to copyright concerns, replies to other people's posts are not archived on GitHub nor GitLab. Please use the [Wayback Machine](https://web.archive.org/web/*/https://zaryathelaika.tumblr.com/*).
 ## Support
