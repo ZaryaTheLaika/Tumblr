@@ -1,7 +1,7 @@
 # Tumblr
-Backup copy of pages and posts from the [Tumblr](https://zaryathelaika.tumblr.com/) account.
+Backup copy of pages and posts from the [Twitter](https://twitter.com/ZaryaTheLaika) account.
 
-Due to copyright concerns, replies to other people's posts are not archived on GitHub nor [GitLab](https://gitlab.com/ZaryaTheLaika/Tumblr). Please use the [Wayback Machine](https://web.archive.org/web/*/https://zaryathelaika.tumblr.com/*).
+Due to copyright concerns, replies to other people's posts are not archived on GitHub nor [GitLab](https://gitlab.com/ZaryaTheLaika/Twitter). Please use the [Wayback Machine](https://web.archive.org/web/*/https://twitter.com/ZaryaTheLaika*).
 ## Support
 If you enjoy the blog and wish to see continous updates, please consider contributing to the [puppy fund](https://paypal.me/bglamours) via PayPal.
 ## License and Copyright
